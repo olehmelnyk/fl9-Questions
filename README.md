@@ -11,26 +11,26 @@
 
 ## Старости груп:
 
-**I група**
-[Artur Oksenyuk](https://github.com/Australis192)
+**I група:**
+[Artur Oksenyuk](https://github.com/Australis192) &
 [Yuliia Senyk](https://github.com/yuliiasenyk)  
 
-**II група**
-[Denys Samotos](https://github.com/denn1sam)
+**II група:**
+[Denys Samotos](https://github.com/denn1sam) &
 [Roman Shelyak](https://github.com/sheljak)  
 
-**III група**
-[Bohdan Kulynka](https://github.com/Kulynka)
+**III група:**
+[Bohdan Kulynka](https://github.com/Kulynka) &
 [Illia Suprun](https://github.com/Supcchik)  
 
-**IV група**
-[Alyona Flak](https://github.com/alyonushkaflak)
+**IV група:**
+[Alyona Flak](https://github.com/alyonushkaflak) &
 [Nadiia Shevtsova](https://github.com/NadiaShevtsova)  
 
-**V група**
-[Andrii Klymovskyi](https://github.com/kipew)
+**V група:**
+[Andrii Klymovskyi](https://github.com/kipew) &
 [Dmytro Lutsiuk](https://github.com/LutsiukD)  
 
-**VI група**
-[Anastasiia Zavorotynska](https://github.com/tinazavr)
+**VI група:**
+[Anastasiia Zavorotynska](https://github.com/tinazavr) &
 [Ostap Rybak](https://github.com/ob1kenob1)
