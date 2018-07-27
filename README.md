@@ -1,5 +1,5 @@
-[![GitHub issues](https://img.shields.io/github/issues-raw/olehmelnyk/fl9-Questions.svg)](https://github.com/olehmelnyk/fl9-Questions/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/olehmelnyk/fl9-Questions.svg)](https://github.com/olehmelnyk/fl9-Questions/issues)
+[![GitHub issues](https://img.shields.io/github/issues-raw/olehmelnyk/fl9-Questions.svg)](https://github.com/olehmelnyk/fl9-Questions/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/olehmelnyk/fl9-Questions.svg)](https://github.com/olehmelnyk/fl9-Questions/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub contributors](https://img.shields.io/github/contributors/olehmelnyk/fl9-Questions.svg)](https://github.com/olehmelnyk/fl9-Questions)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/olehmelnyk/fl9-Questions)
 [![Join the chat at https://gitter.im/{ORG-or-USERNAME}/{REPO-NAME}](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fl-9?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
