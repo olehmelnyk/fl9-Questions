@@ -1,6 +1,8 @@
-[![GitHub issues](https://img.shields.io/github/issues-raw/badges/shields.svg)](https://github.com/olehmelnyk/fl9-Questions/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/badges/shields.svg)](https://github.com/olehmelnyk/fl9-Questions/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg)](https://github.com/olehmelnyk/fl9-Questions)
+[![GitHub issues](https://img.shields.io/github/issues-raw/olehmelnyk/fl9-Questions.svg)](https://github.com/olehmelnyk/fl9-Questions/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/olehmelnyk/fl9-Questions.svg)](https://github.com/olehmelnyk/fl9-Questions/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/olehmelnyk/fl9-Questions.svg)](https://github.com/olehmelnyk/fl9-Questions)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/olehmelnyk/fl9-Questions)
+[![Join the chat at https://gitter.im/{ORG-or-USERNAME}/{REPO-NAME}](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fl-9?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Корисні посилання
 [📅Розклад](https://docs.google.com/spreadsheets/d/1ahzLzSTAU7IVaTYbXhJFih400olcThZDsqX0q7P_GSE/edit?ts=5b52d94a#gid=0)
